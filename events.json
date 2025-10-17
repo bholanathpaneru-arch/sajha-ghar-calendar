@@ -19,6 +19,17 @@
     "recurring": false
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-1",
+    "date": "2025-10-20",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-1",
     "date": "2025-10-21",
     "title": "Zumba",
@@ -28,6 +39,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721458423_o8dn6aokh-2",
+    "date": "2025-10-27",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
   },
   {
     "id": "event_1760718996139_6an8tsb67-2",
@@ -52,6 +74,17 @@
     "originalEventId": "event_1760721334176_9uwgebb2y"
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-3",
+    "date": "2025-11-03",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-3",
     "date": "2025-11-04",
     "title": "Zumba",
@@ -61,6 +94,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721458423_o8dn6aokh-4",
+    "date": "2025-11-10",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
   },
   {
     "id": "event_1760718996139_6an8tsb67-4",
@@ -74,6 +118,17 @@
     "originalEventId": "event_1760718996139_6an8tsb67"
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-5",
+    "date": "2025-11-17",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-5",
     "date": "2025-11-18",
     "title": "Zumba",
@@ -83,6 +138,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721458423_o8dn6aokh-6",
+    "date": "2025-11-24",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
   },
   {
     "id": "event_1760718996139_6an8tsb67-6",
@@ -107,6 +173,17 @@
     "originalEventId": "event_1760721334176_9uwgebb2y"
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-7",
+    "date": "2025-12-01",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-7",
     "date": "2025-12-02",
     "title": "Zumba",
@@ -129,6 +206,17 @@
     "originalEventId": "event_1760721334176_9uwgebb2y"
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-8",
+    "date": "2025-12-08",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-8",
     "date": "2025-12-09",
     "title": "Zumba",
@@ -138,6 +226,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721458423_o8dn6aokh-9",
+    "date": "2025-12-15",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
   },
   {
     "id": "event_1760718996139_6an8tsb67-9",
@@ -151,6 +250,17 @@
     "originalEventId": "event_1760718996139_6an8tsb67"
   },
   {
+    "id": "event_1760721458423_o8dn6aokh-10",
+    "date": "2025-12-22",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-10",
     "date": "2025-12-23",
     "title": "Zumba",
@@ -160,6 +270,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721458423_o8dn6aokh-11",
+    "date": "2025-12-29",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "description": "Sahaja yoga",
+    "created": "2025-10-17T17:17:38.423Z",
+    "recurring": true,
+    "originalEventId": "event_1760721458423_o8dn6aokh"
   },
   {
     "id": "event_1760718996139_6an8tsb67-11",
