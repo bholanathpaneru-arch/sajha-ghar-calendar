@@ -17,5 +17,126 @@
     "description": "Nepali Language and Culture Centre Running Language and Culture Centre",
     "created": "2025-10-17T15:22:45.563Z",
     "recurring": false
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-1",
+    "date": "2025-10-21",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-2",
+    "date": "2025-10-28",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-3",
+    "date": "2025-11-04",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-4",
+    "date": "2025-11-11",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-5",
+    "date": "2025-11-18",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-6",
+    "date": "2025-11-25",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-7",
+    "date": "2025-12-02",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-8",
+    "date": "2025-12-09",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-9",
+    "date": "2025-12-16",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-10",
+    "date": "2025-12-23",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760718996139_6an8tsb67-11",
+    "date": "2025-12-30",
+    "title": "Zumba",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Bonc free zumba",
+    "created": "2025-10-17T16:36:36.142Z",
+    "recurring": true,
+    "originalEventId": "event_1760718996139_6an8tsb67"
   }
 ]
