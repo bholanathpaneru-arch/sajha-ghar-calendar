@@ -41,6 +41,17 @@
     "originalEventId": "event_1760718996139_6an8tsb67"
   },
   {
+    "id": "event_1760721334176_9uwgebb2y-1",
+    "date": "2025-11-02",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali class",
+    "created": "2025-10-17T17:15:34.177Z",
+    "recurring": true,
+    "originalEventId": "event_1760721334176_9uwgebb2y"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-3",
     "date": "2025-11-04",
     "title": "Zumba",
@@ -85,6 +96,17 @@
     "originalEventId": "event_1760718996139_6an8tsb67"
   },
   {
+    "id": "event_1760721334176_9uwgebb2y-2",
+    "date": "2025-12-01",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali class",
+    "created": "2025-10-17T17:15:34.177Z",
+    "recurring": true,
+    "originalEventId": "event_1760721334176_9uwgebb2y"
+  },
+  {
     "id": "event_1760718996139_6an8tsb67-7",
     "date": "2025-12-02",
     "title": "Zumba",
@@ -94,6 +116,17 @@
     "created": "2025-10-17T16:36:36.142Z",
     "recurring": true,
     "originalEventId": "event_1760718996139_6an8tsb67"
+  },
+  {
+    "id": "event_1760721334176_9uwgebb2y-3",
+    "date": "2025-12-07",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali class",
+    "created": "2025-10-17T17:15:34.177Z",
+    "recurring": true,
+    "originalEventId": "event_1760721334176_9uwgebb2y"
   },
   {
     "id": "event_1760718996139_6an8tsb67-8",
