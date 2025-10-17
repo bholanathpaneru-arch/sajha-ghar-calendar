@@ -33,17 +33,6 @@
     "originalEventId": "event_1760729324552_dw0r7d6l2"
   },
   {
-    "id": "event_1760728392865_sjyth8z3i-4",
-    "date": "2025-11-07",
-    "title": "Zumba",
-    "startTime": "18:30",
-    "endTime": "19:30",
-    "description": "BONC Zumba",
-    "created": "2025-10-17T19:13:12.865Z",
-    "recurring": true,
-    "originalEventId": "event_1760728392865_sjyth8z3i"
-  },
-  {
     "id": "event_1760729324552_dw0r7d6l2-4",
     "date": "2025-11-09",
     "title": "Nepali Class",
