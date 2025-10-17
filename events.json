@@ -1,23 +1,5 @@
 [
   {
-    "id": "demo-1",
-    "date": "2024-01-15",
-    "title": "Community Meeting",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "description": "Monthly community gathering",
-    "created": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "id": "demo-2",
-    "date": "2024-01-20",
-    "title": "Workshop",
-    "startTime": "10:00",
-    "endTime": "12:00",
-    "description": "Skill development workshop",
-    "created": "2024-01-01T00:00:00.000Z"
-  },
-  {
     "id": "event_1760691436360_a5yl0aikh-1",
     "date": "2025-10-17",
     "title": "Community Yoga",
