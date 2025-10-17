@@ -18,6 +18,15 @@
     "created": "2024-01-01T00:00:00.000Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-1",
+    "date": "2025-10-17",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-1",
     "date": "2025-10-19",
     "title": "Nepali Class",
@@ -25,6 +34,15 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.289Z"
+  },
+  {
+    "id": "event_1760691436360_a5yl0aikh-2",
+    "date": "2025-10-24",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
   },
   {
     "id": "event_1760690629289_3iktb0vj1-2",
@@ -36,6 +54,15 @@
     "created": "2025-10-17T08:43:49.289Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-3",
+    "date": "2025-10-31",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-3",
     "date": "2025-11-02",
     "title": "Nepali Class",
@@ -43,6 +70,15 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.290Z"
+  },
+  {
+    "id": "event_1760691436360_a5yl0aikh-4",
+    "date": "2025-11-07",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
   },
   {
     "id": "event_1760690629289_3iktb0vj1-4",
@@ -54,6 +90,15 @@
     "created": "2025-10-17T08:43:49.290Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-5",
+    "date": "2025-11-14",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-5",
     "date": "2025-11-16",
     "title": "Nepali Class",
@@ -61,6 +106,15 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.290Z"
+  },
+  {
+    "id": "event_1760691436360_a5yl0aikh-6",
+    "date": "2025-11-21",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
   },
   {
     "id": "event_1760690629289_3iktb0vj1-6",
@@ -72,6 +126,15 @@
     "created": "2025-10-17T08:43:49.290Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-7",
+    "date": "2025-11-28",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-7",
     "date": "2025-11-30",
     "title": "Nepali Class",
@@ -79,6 +142,15 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.290Z"
+  },
+  {
+    "id": "event_1760691436360_a5yl0aikh-8",
+    "date": "2025-12-05",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
   },
   {
     "id": "event_1760690629289_3iktb0vj1-8",
@@ -90,6 +162,15 @@
     "created": "2025-10-17T08:43:49.290Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-9",
+    "date": "2025-12-12",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-9",
     "date": "2025-12-14",
     "title": "Nepali Class",
@@ -99,6 +180,15 @@
     "created": "2025-10-17T08:43:49.290Z"
   },
   {
+    "id": "event_1760691436360_a5yl0aikh-10",
+    "date": "2025-12-19",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
+  },
+  {
     "id": "event_1760690629289_3iktb0vj1-10",
     "date": "2025-12-21",
     "title": "Nepali Class",
@@ -106,6 +196,15 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.290Z"
+  },
+  {
+    "id": "event_1760691436360_a5yl0aikh-11",
+    "date": "2025-12-26",
+    "title": "Community Yoga",
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "description": "Burnt Oak Nepalese Community - Free Yoga Session",
+    "created": "2025-10-17T08:57:16.360Z"
   },
   {
     "id": "event_1760690629289_3iktb0vj1-11",
