@@ -108,6 +108,17 @@
     "created": "2025-10-17T09:16:13.247Z"
   },
   {
+    "id": "event_1760713791602_ishosiez1-1",
+    "date": "2025-11-02",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali Language and Culture Centre Running Language and Culture classes",
+    "created": "2025-10-17T15:09:51.602Z",
+    "recurring": true,
+    "originalEventId": "event_1760713791602_ishosiez1"
+  },
+  {
     "id": "event_1760691436360_a5yl0aikh-4",
     "date": "2025-11-07",
     "title": "Community Yoga",
@@ -252,6 +263,17 @@
     "created": "2025-10-17T08:43:49.290Z"
   },
   {
+    "id": "event_1760713791602_ishosiez1-2",
+    "date": "2025-12-01",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali Language and Culture Centre Running Language and Culture classes",
+    "created": "2025-10-17T15:09:51.602Z",
+    "recurring": true,
+    "originalEventId": "event_1760713791602_ishosiez1"
+  },
+  {
     "id": "event_1760691436360_a5yl0aikh-8",
     "date": "2025-12-05",
     "title": "Community Yoga",
@@ -286,6 +308,17 @@
     "endTime": "13:00",
     "description": "Nepali Language and Culture Centre run Nepali language and Culture session every Sunday",
     "created": "2025-10-17T08:43:49.290Z"
+  },
+  {
+    "id": "event_1760713791602_ishosiez1-3",
+    "date": "2025-12-07",
+    "title": "Nepali Class",
+    "startTime": "09:30",
+    "endTime": "12:15",
+    "description": "Nepali Language and Culture Centre Running Language and Culture classes",
+    "created": "2025-10-17T15:09:51.602Z",
+    "recurring": true,
+    "originalEventId": "event_1760713791602_ishosiez1"
   },
   {
     "id": "event_1760691436360_a5yl0aikh-9",
