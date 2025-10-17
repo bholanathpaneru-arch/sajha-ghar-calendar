@@ -159,11 +159,12 @@
     "date": "2025-12-07",
     "title": "Nepali Class",
     "startTime": "09:30",
-    "endTime": "13:00",
+    "endTime": "12:15",
     "description": "Nepali Language and Culture",
     "created": "2025-10-17T19:28:44.552Z",
     "recurring": true,
-    "originalEventId": "event_1760729324552_dw0r7d6l2"
+    "originalEventId": "event_1760729324552_dw0r7d6l2",
+    "updated": "2025-10-17T21:10:28.062Z"
   },
   {
     "id": "event_1760735298747_oa01uvv9n-8",
