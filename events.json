@@ -891,11 +891,12 @@
     "startTime": "18:30",
     "endTime": "19:30",
     "description": "Burnt Oak Nepalese Community Weekly Yoga session",
-    "color": "#3F51B5",
-    "colorName": "Indigo",
+    "color": "#4CAF50",
+    "colorName": "Green",
     "created": "2025-10-26T13:11:03.872Z",
     "recurring": true,
-    "originalEventId": "event_1761484263872_a9dzlzpjz"
+    "originalEventId": "event_1761484263872_a9dzlzpjz",
+    "updated": "2025-10-26T15:11:25.191Z"
   },
   {
     "id": "event_1761490364970_y3wjjyto0-8",
