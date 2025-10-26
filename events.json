@@ -26,6 +26,19 @@
     "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
+    "id": "event_1761490301114_7p1digbca-1",
+    "date": "2025-10-29",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-1",
     "date": "2025-10-31",
     "title": "BONC - Yoga",
@@ -63,6 +76,19 @@
     "created": "2025-10-26T14:49:26.186Z",
     "recurring": true,
     "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
+    "id": "event_1761490301114_7p1digbca-2",
+    "date": "2025-11-05",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-2",
@@ -104,6 +130,19 @@
     "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
+    "id": "event_1761490301114_7p1digbca-3",
+    "date": "2025-11-12",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-3",
     "date": "2025-11-14",
     "title": "BONC - Yoga",
@@ -141,6 +180,19 @@
     "created": "2025-10-26T14:49:26.186Z",
     "recurring": true,
     "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
+    "id": "event_1761490301114_7p1digbca-4",
+    "date": "2025-11-19",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-4",
@@ -182,6 +234,19 @@
     "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
+    "id": "event_1761490301114_7p1digbca-5",
+    "date": "2025-11-26",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-5",
     "date": "2025-11-28",
     "title": "BONC - Yoga",
@@ -219,6 +284,19 @@
     "created": "2025-10-26T14:49:26.186Z",
     "recurring": true,
     "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
+    "id": "event_1761490301114_7p1digbca-6",
+    "date": "2025-12-03",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-6",
@@ -260,6 +338,19 @@
     "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
+    "id": "event_1761490301114_7p1digbca-7",
+    "date": "2025-12-10",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-7",
     "date": "2025-12-12",
     "title": "BONC - Yoga",
@@ -299,6 +390,19 @@
     "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
+    "id": "event_1761490301114_7p1digbca-8",
+    "date": "2025-12-17",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-8",
     "date": "2025-12-19",
     "title": "BONC - Yoga",
@@ -336,6 +440,19 @@
     "created": "2025-10-26T14:49:26.186Z",
     "recurring": true,
     "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
+    "id": "event_1761490301114_7p1digbca-9",
+    "date": "2025-12-24",
+    "title": "Seniors Day",
+    "startTime": "10:00",
+    "endTime": "12:30",
+    "description": "Wonderful Wednesday",
+    "color": "#673AB7",
+    "colorName": "Deep Purple",
+    "created": "2025-10-26T14:51:41.114Z",
+    "recurring": true,
+    "originalEventId": "event_1761490301114_7p1digbca"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-9",
