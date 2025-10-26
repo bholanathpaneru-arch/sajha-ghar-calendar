@@ -97,13 +97,14 @@
     "date": "2025-11-02",
     "title": "NLCC - Nepali Class",
     "startTime": "09:30",
-    "endTime": "13:00",
+    "endTime": "12:15",
     "description": "Nepali Language and Culture Centre Regular Nepali Class",
     "color": "#F44336",
     "colorName": "Red",
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
-    "originalEventId": "event_1761484188480_utxvthx28"
+    "originalEventId": "event_1761484188480_utxvthx28",
+    "updated": "2025-10-26T15:29:10.711Z"
   },
   {
     "id": "event_1761490166186_fgj2ryzdk-2",
