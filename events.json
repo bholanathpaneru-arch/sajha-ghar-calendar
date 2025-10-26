@@ -214,15 +214,16 @@
   {
     "id": "event_1761490597826_jbi585ok0-2",
     "date": "2025-11-08",
-    "title": "BLS Session",
+    "title": "Health & Wellbeing HUB",
     "startTime": "11:30",
     "endTime": "12:30",
-    "description": "Health & Wellbeing HUB BLS Seesion",
+    "description": "Health & Wellbeing HUB - BLS Session",
     "color": "#009688",
     "colorName": "Teal",
     "created": "2025-10-26T14:56:37.826Z",
     "recurring": true,
-    "originalEventId": "event_1761490597826_jbi585ok0"
+    "originalEventId": "event_1761490597826_jbi585ok0",
+    "updated": "2025-10-26T15:18:04.929Z"
   },
   {
     "id": "event_1761484188480_utxvthx28-3",
