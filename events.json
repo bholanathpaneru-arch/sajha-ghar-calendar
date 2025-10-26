@@ -93,19 +93,6 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
-    "id": "event_1761490520898_a8aad9rip-1",
-    "date": "2025-11-01",
-    "title": "Music",
-    "startTime": "13:00",
-    "endTime": "15:00",
-    "description": "BONC MUSIC Session",
-    "color": "#2196F3",
-    "colorName": "Blue",
-    "created": "2025-10-26T14:55:20.898Z",
-    "recurring": true,
-    "originalEventId": "event_1761490520898_a8aad9rip"
-  },
-  {
     "id": "event_1761490597826_jbi585ok0-1",
     "date": "2025-11-01",
     "title": "BLS Session",
