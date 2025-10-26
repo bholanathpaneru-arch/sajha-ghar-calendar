@@ -78,6 +78,19 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
+    "id": "event_1761490520898_a8aad9rip-1",
+    "date": "2025-11-01",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
+  },
+  {
     "id": "event_1761484188480_utxvthx28-2",
     "date": "2025-11-02",
     "title": "NLCC - Nepali Class",
@@ -154,6 +167,19 @@
     "created": "2025-10-26T14:54:10.827Z",
     "recurring": true,
     "originalEventId": "event_1761490450827_q2oc6jxwt"
+  },
+  {
+    "id": "event_1761490520898_a8aad9rip-2",
+    "date": "2025-11-08",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
   },
   {
     "id": "event_1761484188480_utxvthx28-3",
@@ -234,6 +260,19 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
+    "id": "event_1761490520898_a8aad9rip-3",
+    "date": "2025-11-15",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
+  },
+  {
     "id": "event_1761484188480_utxvthx28-4",
     "date": "2025-11-16",
     "title": "NLCC - Nepali Class",
@@ -310,6 +349,19 @@
     "created": "2025-10-26T14:54:10.827Z",
     "recurring": true,
     "originalEventId": "event_1761490450827_q2oc6jxwt"
+  },
+  {
+    "id": "event_1761490520898_a8aad9rip-4",
+    "date": "2025-11-22",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
   },
   {
     "id": "event_1761484188480_utxvthx28-5",
@@ -390,6 +442,19 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
+    "id": "event_1761490520898_a8aad9rip-5",
+    "date": "2025-11-29",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
+  },
+  {
     "id": "event_1761484188480_utxvthx28-6",
     "date": "2025-11-30",
     "title": "NLCC - Nepali Class",
@@ -466,6 +531,19 @@
     "created": "2025-10-26T14:54:10.827Z",
     "recurring": true,
     "originalEventId": "event_1761490450827_q2oc6jxwt"
+  },
+  {
+    "id": "event_1761490520898_a8aad9rip-6",
+    "date": "2025-12-06",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
   },
   {
     "id": "event_1761484188480_utxvthx28-7",
@@ -546,6 +624,19 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
+    "id": "event_1761490520898_a8aad9rip-7",
+    "date": "2025-12-13",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.898Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
+  },
+  {
     "id": "event_1761484188480_utxvthx28-8",
     "date": "2025-12-14",
     "title": "NLCC - Nepali Class",
@@ -624,6 +715,19 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
+    "id": "event_1761490520898_a8aad9rip-8",
+    "date": "2025-12-20",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.899Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
+  },
+  {
     "id": "event_1761484188480_utxvthx28-9",
     "date": "2025-12-21",
     "title": "NLCC - Nepali Class",
@@ -700,6 +804,19 @@
     "created": "2025-10-26T14:54:10.827Z",
     "recurring": true,
     "originalEventId": "event_1761490450827_q2oc6jxwt"
+  },
+  {
+    "id": "event_1761490520898_a8aad9rip-9",
+    "date": "2025-12-27",
+    "title": "Music",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "description": "BONC MUSIC Session",
+    "color": "#2196F3",
+    "colorName": "Blue",
+    "created": "2025-10-26T14:55:20.899Z",
+    "recurring": true,
+    "originalEventId": "event_1761490520898_a8aad9rip"
   },
   {
     "id": "event_1761484188480_utxvthx28-10",
