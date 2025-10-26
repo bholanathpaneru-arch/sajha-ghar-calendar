@@ -740,11 +740,12 @@
     "startTime": "18:30",
     "endTime": "19:30",
     "description": "BONC - Free Zumba Session",
-    "color": "#FFEB3B",
-    "colorName": "Yellow",
+    "color": "#CDDC39",
+    "colorName": "Lime",
     "created": "2025-10-26T14:57:52.562Z",
     "recurring": true,
-    "originalEventId": "event_1761490672561_1zrx60mx2"
+    "originalEventId": "event_1761490672561_1zrx60mx2",
+    "updated": "2025-10-26T15:07:56.740Z"
   },
   {
     "id": "event_1761490301114_7p1digbca-7",
