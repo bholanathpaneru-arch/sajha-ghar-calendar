@@ -93,19 +93,6 @@
     "originalEventId": "event_1761490450827_q2oc6jxwt"
   },
   {
-    "id": "event_1761490597826_jbi585ok0-1",
-    "date": "2025-11-01",
-    "title": "BLS Session",
-    "startTime": "11:30",
-    "endTime": "12:30",
-    "description": "Health & Wellbeing HUB BLS Seesion",
-    "color": "#009688",
-    "colorName": "Teal",
-    "created": "2025-10-26T14:56:37.826Z",
-    "recurring": true,
-    "originalEventId": "event_1761490597826_jbi585ok0"
-  },
-  {
     "id": "event_1761484188480_utxvthx28-2",
     "date": "2025-11-02",
     "title": "NLCC - Nepali Class",
