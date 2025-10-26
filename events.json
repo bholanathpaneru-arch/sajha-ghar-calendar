@@ -13,6 +13,19 @@
     "originalEventId": "event_1761484188480_utxvthx28"
   },
   {
+    "id": "event_1761490166186_fgj2ryzdk-1",
+    "date": "2025-10-27",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-1",
     "date": "2025-10-31",
     "title": "BONC - Yoga",
@@ -37,6 +50,19 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761490166186_fgj2ryzdk-2",
+    "date": "2025-11-03",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-2",
@@ -65,6 +91,19 @@
     "originalEventId": "event_1761484188480_utxvthx28"
   },
   {
+    "id": "event_1761490166186_fgj2ryzdk-3",
+    "date": "2025-11-10",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-3",
     "date": "2025-11-14",
     "title": "BONC - Yoga",
@@ -89,6 +128,19 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761490166186_fgj2ryzdk-4",
+    "date": "2025-11-17",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-4",
@@ -117,6 +169,19 @@
     "originalEventId": "event_1761484188480_utxvthx28"
   },
   {
+    "id": "event_1761490166186_fgj2ryzdk-5",
+    "date": "2025-11-24",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-5",
     "date": "2025-11-28",
     "title": "BONC - Yoga",
@@ -141,6 +206,19 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761490166186_fgj2ryzdk-6",
+    "date": "2025-12-01",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-6",
@@ -169,6 +247,19 @@
     "originalEventId": "event_1761484188480_utxvthx28"
   },
   {
+    "id": "event_1761490166186_fgj2ryzdk-7",
+    "date": "2025-12-08",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-7",
     "date": "2025-12-12",
     "title": "BONC - Yoga",
@@ -193,6 +284,19 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761490166186_fgj2ryzdk-8",
+    "date": "2025-12-15",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
   },
   {
     "id": "event_1761484263872_a9dzlzpjz-8",
@@ -221,6 +325,19 @@
     "originalEventId": "event_1761484188480_utxvthx28"
   },
   {
+    "id": "event_1761490166186_fgj2ryzdk-9",
+    "date": "2025-12-22",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
+  },
+  {
     "id": "event_1761484263872_a9dzlzpjz-9",
     "date": "2025-12-26",
     "title": "BONC - Yoga",
@@ -245,5 +362,18 @@
     "created": "2025-10-26T13:09:48.480Z",
     "recurring": true,
     "originalEventId": "event_1761484188480_utxvthx28"
+  },
+  {
+    "id": "event_1761490166186_fgj2ryzdk-10",
+    "date": "2025-12-29",
+    "title": "Sahaja Yoga",
+    "startTime": "19:00",
+    "endTime": "20:00",
+    "description": "Sahaja Yoga",
+    "color": "#9C27B0",
+    "colorName": "Purple",
+    "created": "2025-10-26T14:49:26.186Z",
+    "recurring": true,
+    "originalEventId": "event_1761490166186_fgj2ryzdk"
   }
 ]
